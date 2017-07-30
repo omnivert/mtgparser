@@ -25,9 +25,21 @@ print(top8pages)
 
 #metas
 metas = pages['modern'].find_all('select')
+meta = []
 
-for meta in metas:
-    print(meta.prettify())
+for m in metas:
+    print(m)
+    if m['name'] == "meta":
+        print('---- meta list ----')
+        meta = m
+        break
+
+print(meta)
+
+meta_list = meta.find_all('option')
+print('---- actual options ----')
+for meta in meta_list:
+    print(meta)
 
 #vintage_metas
 #legacy_metas
