@@ -1,52 +1,1744 @@
-07/30/17
-Legacy
-Grixis Delver,Aggro,105,12%
-Death & Taxes,Aggro,52,6%
-UR Delver,Aggro,32,4%
-Eldrazi Aggro,Aggro,32,4%
-Jund,Aggro,18,2%
-Burn,Aggro,17,2%
-Infect,Aggro,17,2%
-Grixis Control,Control,89,10%
-Stoneblade,Control,60,7%
-BUG Midrange,Control,40,4%
-UWx Control,Control,39,4%
-Lands,Control,32,4%
-Loam,Control,14,2%
-Storm,Combo,60,7%
-Show and Tell,Combo,42,5%
-Reanimator,Combo,33,4%
-Elves,Combo,31,3%
-Dark Depths,Combo,30,3%
-Modern
-Death's Shadow,Aggro,134,15%
-Eldrazi Aggro,Aggro,90,10%
-Affinity,Aggro,76,8%
-Red Deck Wins,Aggro,52,6%
-Hatebear,Aggro,38,4%
-Junk,Aggro,26,3%
-Bant,Aggro,19,2%
-Jund,Aggro,16,2%
-Merfolk,Aggro,15,2%
-UW Control,Control,46,5%
-UrzaTron,Control,33,4%
-UWx Midrange,Control,24,3%
-Lantern Control,Control,18,2%
-Valakut,Combo,54,6%
-Creatures Tooolkit,Combo,39,4%
-UR Storm,Combo,27,3%
-Dredge,Combo,24,3% 
-Living End,Combo,21,2%
-Standard
-Golgari Aggro,Aggro,98,16%
-Temur Aggro,Aggro,79,13%
-Mardu Aggro,Aggro,75,12%
-Mono Black Ag..,Aggro,66,11%
-Azorius Aggro,Aggro,40,7%
-Gruul Aggro,Aggro,36,6%
-Red Deck Wins,Aggro,27,4%
-Emerge,Aggro,13,2%
-Weenie White,Aggro,12,2%
-Izzet Control,Aggro,19,3%
-Jund,Aggro,10,2%
-Marvelous Energy,Combo,58,10%
+Legacy Grixis Delver
+18 LANDS
+4 Misty Rainforest
+4 Polluted Delta
+1 Tropical Island
+2 Underground Sea
+3 Volcanic Island
+4 Wasteland
+14 CREATURES
+4 Deathrite Shaman
+4 Delver of Secrets
+2 Gurmag Angler
+2 True-Name Nemesis
+2 Young Pyromancer
+28 INSTANTS and SORC.
+4 Brainstorm
+4 Daze
+4 Force of Will
+1 Forked Bolt
+3 Gitaxian Probe
+4 Lightning Bolt
+4 Ponder
+1 Spell Pierce
+3 Stifle
+SIDEBOARD
+1 Ancient Grudge
+2 Cabal Therapy
+2 Diabolic Edict
+1 Electrify
+1 Flusterstorm
+1 Forked Bolt
+1 Grafdigger's Cage
+1 Pithing Needle
+2 Pyroblast
+1 Sulfuric Vortex
+2 Surgical Extraction
+----
+Legacy Death & Taxes
+22 LANDS
+2 Cavern of Souls
+1 Horizon Canopy
+3 Karakas
+8 Plains
+4 Rishadan Port
+4 Wasteland
+27 CREATURES
+4 Flickerwisp
+2 Mirran Crusader
+4 Mother of Runes
+3 Phyrexian Revoker
+2 Recruiter of the Guard
+1 Sanctum Prelate
+2 Serra Avenger
+1 Spirit of the Labyrinth
+4 Stoneforge Mystic
+4 Thalia, Guardian of Thraben
+4 INSTANTS and SORC.
+4 Swords to Plowshares
+7 OTHER SPELLS
+4 Aether Vial
+1 Batterskull
+1 Sword of Fire and Ice
+1 Umezawa's Jitte
+SIDEBOARD
+1 Containment Priest
+2 Council's Judgment
+1 Ethersworn Canonist
+2 Gideon, Ally of Zendikar
+1 Path to Exile
+1 Pithing Needle
+3 Rest in Peace
+1 Sanctum Prelate
+2 Surgical Extraction
+1 Sword of Light and Shadow
+----
+Legacy UR Delver
+16 LANDS
+1 Arid Mesa
+4 Flooded Strand
+2 Island
+2 Mountain
+4 Scalding Tarn
+3 Volcanic Island
+13 CREATURES
+2 Bedlam Reveler
+4 Delver of Secrets
+4 Monastery Swiftspear
+3 Stormchaser Mage
+31 INSTANTS and SORC.
+4 Brainstorm
+2 Chain Lightning
+4 Daze
+1 Fireblast
+4 Force of Will
+4 Gitaxian Probe
+4 Lightning Bolt
+4 Ponder
+2 Price of Progress
+1 Thunderous Wrath
+1 Vapor Snag
+SIDEBOARD
+1 Blood Moon
+2 Exquisite Firecraft
+1 Grim Lavamancer
+1 Price of Progress
+2 Pyroblast
+1 Smash to Smithereens
+1 Spell Pierce
+1 Submerge
+2 Sulfuric Vortex
+2 Surgical Extraction
+1 Vendilion Clique
+----
+Legacy Eldrazi Aggro
+25 LANDS
+4 Ancient Tomb
+4 Cavern of Souls
+2 City of Traitors
+4 Eldrazi Temple
+3 Eye of Ugin
+2 Urborg, Tomb of Yawgmoth
+4 Wasteland
+2 Wastes
+25 CREATURES
+4 Eldrazi Mimic
+4 Endless One
+4 Matter Reshaper
+2 Oblivion Sower
+4 Reality Smasher
+3 Simian Spirit Guide
+4 Thought-Knot Seer
+4 INSTANTS and SORC.
+2 Dismember
+2 Warping Wail
+6 OTHER SPELLS
+4 Chalice of the Void
+2 Umezawa's Jitte
+SIDEBOARD
+2 All Is Dust
+1 Dismember
+1 Karakas
+4 Leyline of the Void
+2 Pithing Needle
+2 Thorn of Amethyst
+1 Tsabo's Web
+1 Ulamog, the Ceaseless Hunger
+1 Warping Wail
+----
+Legacy Jund
+23 LANDS
+3 Badlands
+2 Bayou
+4 Bloodstained Mire
+1 Forest
+4 Grove of the Burnwillows
+1 Swamp
+1 Urborg, Tomb of Yawgmoth
+4 Verdant Catacombs
+3 Wasteland
+16 CREATURES
+4 Bloodbraid Elf
+4 Dark Confidant
+4 Deathrite Shaman
+4 Tarmogoyf
+16 INSTANTS and SORC.
+3 Abrupt Decay
+4 Hymn to Tourach
+3 Lightning Bolt
+3 Punishing Fire
+3 Thoughtseize
+5 OTHER SPELLS
+4 Liliana of the Veil
+1 Sylvan Library
+SIDEBOARD
+3 Duress
+2 Golgari Charm
+4 Leyline of the Void
+1 Lightning Bolt
+2 Pithing Needle
+2 Red Elemental Blast
+1 Thorn of Amethyst
+----
+Legacy Burn
+16 LANDS
+1 Arid Mesa
+4 Flooded Strand
+2 Island
+2 Mountain
+4 Scalding Tarn
+3 Volcanic Island
+13 CREATURES
+1 Bedlam Reveler
+4 Delver of Secrets
+4 Monastery Swiftspear
+2 Snapcaster Mage
+2 Stormchaser Mage
+31 INSTANTS and SORC.
+4 Brainstorm
+4 Chain Lightning
+4 Daze
+4 Force of Will
+4 Gitaxian Probe
+4 Lightning Bolt
+4 Ponder
+2 Price of Progress
+1 Spell Pierce
+SIDEBOARD
+2 Blood Moon
+1 Flusterstorm
+1 Grim Lavamancer
+1 Price of Progress
+2 Pyroblast
+1 Pyrostatic Pillar
+2 Rough / Tumble
+2 Smash to Smithereens
+1 Submerge
+2 Surgical Extraction
+----
+Legacy Infect
+19 LANDS
+1 Forest
+4 Inkmoth Nexus
+3 Misty Rainforest
+1 Pendelhaven
+4 Tropical Island
+1 Wasteland
+3 Windswept Heath
+2 Wooded Foothills
+13 CREATURES
+4 Blighted Agent
+4 Glistener Elf
+4 Noble Hierarch
+1 Viridian Corrupter
+28 INSTANTS and SORC.
+1 Become Immense
+2 Berserk
+4 Brainstorm
+1 Crop Rotation
+3 Daze
+1 Flusterstorm
+3 Force of Will
+2 Gitaxian Probe
+1 Green Sun's Zenith
+4 Invigorate
+2 Ponder
+1 Spell Pierce
+3 Vines of Vastwood
+SIDEBOARD
+2 Blossoming Defense
+1 Blue Elemental Blast
+1 Dissenter's Deliverance
+1 Flusterstorm
+1 Force of Will
+1 Grafdigger's Cage
+1 Nature's Claim
+1 Pithing Needle
+1 Spell Pierce
+3 Submerge
+1 Sylvan Safekeeper
+1 Teferi's Response
+----
+Legacy Grixis Control
+19 LANDS
+2 Island
+1 Misty Rainforest
+4 Polluted Delta
+4 Scalding Tarn
+1 Swamp
+1 Tropical Island
+3 Underground Sea
+3 Volcanic Island
+14 CREATURES
+4 Baleful Strix
+4 Deathrite Shaman
+1 Gurmag Angler
+4 Snapcaster Mage
+1 Tasigur, the Golden Fang
+25 INSTANTS and SORC.
+4 Brainstorm
+2 Fatal Push
+4 Force of Will
+2 Hymn to Tourach
+3 Kolaghan's Command
+3 Lightning Bolt
+4 Ponder
+3 Spell Pierce
+2 OTHER SPELLS
+2 Jace, the Mind Sculptor
+SIDEBOARD
+2 Blood Moon
+2 Diabolic Edict
+1 Extirpate
+3 Flusterstorm
+1 Marsh Casualties
+2 Pyroblast
+1 Red Elemental Blast
+2 Surgical Extraction
+1 Toxic Deluge
+----
+Legacy Stoneblade
+24 LANDS
+4 Flooded Strand
+1 Irrigated Farmland
+4 Island
+2 Marsh Flats
+2 Plains
+4 Polluted Delta
+3 Tundra
+4 Wasteland
+12 CREATURES
+4 Snapcaster Mage
+4 Stoneforge Mystic
+4 True-Name Nemesis
+19 INSTANTS and SORC.
+4 Brainstorm
+2 Council's Judgment
+3 Counterspell
+2 Flusterstorm
+4 Force of Will
+4 Swords to Plowshares
+5 OTHER SPELLS
+1 Batterskull
+3 Jace, the Mind Sculptor
+1 Umezawa's Jitte
+SIDEBOARD
+3 Containment Priest
+2 Disenchant
+3 Engineered Explosives
+2 Flusterstorm
+1 Gideon, Ally of Zendikar
+3 Surgical Extraction
+1 Terminus
+----
+Legacy BUG Midrange
+19 LANDS
+2 Bayou
+4 Misty Rainforest
+4 Polluted Delta
+1 Tropical Island
+3 Underground Sea
+1 Verdant Catacombs
+4 Wasteland
+15 CREATURES
+4 Deathrite Shaman
+4 Delver of Secrets
+1 Gurmag Angler
+1 Leovold, Emissary of Trest
+4 Tarmogoyf
+1 Tombstalker
+25 INSTANTS and SORC.
+3 Abrupt Decay
+4 Brainstorm
+4 Daze
+1 Dismember
+2 Fatal Push
+3 Force of Will
+4 Hymn to Tourach
+4 Ponder
+1 OTHER SPELLS
+1 Liliana of the Veil
+SIDEBOARD
+2 Baleful Strix
+1 Diabolic Edict
+1 Fatal Push
+2 Flusterstorm
+1 Golgari Charm
+2 Grafdigger's Cage
+2 Invasive Surgery
+1 Jace, the Mind Sculptor
+1 Thoughtseize
+1 Toxic Deluge
+1 Umezawa's Jitte
+----
+Legacy UWx Control
+19 LANDS
+1 Arid Mesa
+4 Flooded Strand
+5 Island
+1 Karakas
+2 Plains
+3 Scalding Tarn
+3 Tundra
+7 CREATURES
+3 Monastery Mentor
+4 Snapcaster Mage
+32 INSTANTS and SORC.
+4 Brainstorm
+1 Council's Judgment
+2 Counterspell
+2 Flusterstorm
+3 Force of Will
+4 Ponder
+4 Portent
+4 Predict
+4 Swords to Plowshares
+3 Terminus
+1 Unexpectedly Absent
+2 OTHER SPELLS
+2 Jace, the Mind Sculptor
+SIDEBOARD
+1 Cast Out
+1 Containment Priest
+1 Counterbalance
+1 Ethersworn Canonist
+1 Flusterstorm
+1 Force of Will
+1 Hydroblast
+2 Invasive Surgery
+1 Leyline of Sanctity
+1 Pithing Needle
+2 Surgical Extraction
+2 Vendilion Clique
+----
+Legacy Lands
+34 LANDS
+1 Bojuka Bog
+3 Dark Depths
+2 Forest
+2 Ghost Quarter
+1 Glacial Chasm
+4 Grove of the Burnwillows
+1 Karakas
+2 Maze of Ith
+1 Misty Rainforest
+3 Rishadan Port
+1 Sheltered Thicket
+2 Taiga
+1 The Tabernacle at Pendrell Vale
+4 Thespian's Stage
+4 Wasteland
+2 Wooded Foothills
+16 INSTANTS and SORC.
+4 Crop Rotation
+4 Gamble
+4 Life from the Loam
+3 Punishing Fire
+1 Sylvan Scrying
+10 OTHER SPELLS
+4 Exploration
+2 Molten Vortex
+4 Mox Diamond
+SIDEBOARD
+1 Ancient Grudge
+2 Drop of Honey
+3 Krosan Grip
+1 Nissa, Vital Force
+4 Sphere of Resistance
+3 Tireless Tracker
+1 Trinisphere
+----
+Legacy Loam
+27 LANDS
+1 Badlands
+1 Barren Moor
+2 Bayou
+1 Cabal Pit
+1 Dryad Arbor
+1 Forest
+1 Ghost Quarter
+3 Grove of the Burnwillows
+1 Karakas
+1 Savannah
+1 Scrubland
+1 Taiga
+1 The Tabernacle at Pendrell Vale
+1 Tranquil Thicket
+4 Verdant Catacombs
+4 Wasteland
+2 Windswept Heath
+11 CREATURES
+4 Dark Confidant
+1 Gaddock Teeg
+4 Knight of the Reliquary
+1 Ramunap Excavator
+1 Scavenging Ooze
+9 INSTANTS and SORC.
+3 Abrupt Decay
+1 Green Sun's Zenith
+2 Life from the Loam
+3 Punishing Fire
+13 OTHER SPELLS
+1 Ajani Vengeant
+4 Chalice of the Void
+3 Liliana of the Veil
+4 Mox Diamond
+1 Sylvan Library
+SIDEBOARD
+2 Containment Priest
+1 Garruk Relentless
+2 Golgari Charm
+2 Leyline of the Void
+1 Maze of Ith
+1 Reclamation Sage
+1 Swords to Plowshares
+2 Thalia, Guardian of Thraben
+2 Thoughtseize
+1 Vindicate
+----
+Legacy Storm
+
+15 LANDS
+1 Bayou
+1 Island
+4 Misty Rainforest
+4 Polluted Delta
+1 Swamp
+1 Tropical Island
+2 Underground Sea
+1 Volcanic Island
+37 INSTANTS and SORC.
+1 Ad Nauseam
+4 Brainstorm
+4 Cabal Ritual
+3 Cabal Therapy
+2 Dark Petition
+4 Dark Ritual
+3 Duress
+4 Gitaxian Probe
+4 Infernal Tutor
+1 Past in Flames
+4 Ponder
+2 Preordain
+1 Tendrils of Agony
+8 OTHER SPELLS
+4 Lion's Eye Diamond
+4 Lotus Petal
+SIDEBOARD
+2 Abrupt Decay
+2 Chain of Vapor
+2 Dread of Night
+2 Empty the Warrens
+2 Fatal Push
+1 Hurkyl's Recall
+2 Surgical Extraction
+2 Xantid Swarm
+----
+Legacy Show and Tell
+19 LANDS
+3 Ancient Tomb
+1 Boseiju, Who Shelters All
+2 City of Traitors
+3 Island
+1 Misty Rainforest
+1 Mountain
+2 Polluted Delta
+4 Scalding Tarn
+2 Volcanic Island
+6 CREATURES
+3 Emrakul, the Aeons Torn
+3 Griselbrand
+26 INSTANTS and SORC.
+4 Brainstorm
+2 Cunning Wish
+2 Flusterstorm
+4 Force of Will
+2 Intuition
+4 Ponder
+3 Preordain
+4 Show and Tell
+1 Spell Pierce
+9 OTHER SPELLS
+3 Lotus Petal
+3 Omniscience
+3 Sneak Attack
+SIDEBOARD
+2 Blood Moon
+1 Boseiju, Who Shelters All
+2 Defense Grid
+1 Echoing Truth
+1 Flusterstorm
+1 Grafdigger's Cage
+2 Grim Lavamancer
+1 Intuition
+1 Kozilek's Return
+1 Pyroblast
+1 Surgical Extraction
+1 Through the Breach
+----
+Legacy Reanimator
+13 LANDS
+2 Badlands
+4 Bloodstained Mire
+2 Marsh Flats
+1 Mountain
+1 Polluted Delta
+1 Scrubland
+2 Swamp
+10 CREATURES
+4 Chancellor of the Annex
+4 Griselbrand
+1 Iona, Shield of Emeria
+1 Tidespout Tyrant
+28 INSTANTS and SORC.
+3 Collective Brutality
+4 Dark Ritual
+4 Entomb
+4 Exhume
+4 Faithless Looting
+4 Reanimate
+3 Thoughtseize
+2 Unmask
+9 OTHER SPELLS
+4 Animate Dead
+1 Chrome Mox
+4 Lotus Petal
+SIDEBOARD
+1 Ashen Rider
+2 Blood Moon
+1 Collective Brutality
+1 Elesh Norn, Grand Cenobite
+2 Faerie Macabre
+1 Grave Titan
+2 Pithing Needle
+1 Thoughtseize
+4 Wear / Tear
+----
+Legacy Elves
+19 LANDS
+2 Bayou
+2 Dryad Arbor
+4 Gaea's Cradle
+2 Misty Rainforest
+1 Pendelhaven
+2 Snow-Covered Forest
+2 Verdant Catacombs
+2 Windswept Heath
+2 Wooded Foothills
+29 CREATURES
+1 Birchlore Rangers
+2 Craterhoof Behemoth
+4 Deathrite Shaman
+4 Elvish Visionary
+4 Heritage Druid
+4 Nettle Sentinel
+4 Quirion Ranger
+1 Reclamation Sage
+1 Scavenging Ooze
+4 Wirewood Symbiote
+12 INSTANTS and SORC.
+4 Glimpse of Nature
+4 Green Sun's Zenith
+4 Natural Order
+SIDEBOARD
+3 Abrupt Decay
+3 Cabal Therapy
+1 Meekstone
+1 Progenitus
+1 Ruric Thar, the Unbowed
+2 Surgical Extraction
+3 Thoughtseize
+1 Umezawa's Jitte
+----
+Legacy Dark Depths
+24 LANDS
+4 Bayou
+1 Bojuka Bog
+4 Dark Depths
+1 Forest
+1 Ghost Quarter
+1 Sejiri Steppe
+1 Swamp
+4 Thespian's Stage
+3 Urborg, Tomb of Yawgmoth
+4 Verdant Catacombs
+8 CREATURES
+4 Elvish Spirit Guide
+4 Vampire Hexmage
+18 INSTANTS and SORC.
+4 Crop Rotation
+2 Duress
+2 Inquisition of Kozilek
+2 Not of this World
+4 Sylvan Scrying
+4 Thoughtseize
+10 OTHER SPELLS
+4 Lotus Petal
+4 Pithing Needle
+2 Sylvan Library
+SIDEBOARD
+4 Abrupt Decay
+1 Dryad Arbor
+1 Karakas
+4 Leyline of the Void
+2 Not of this World
+3 Rite of Consumption
+----
+Modern Death's Shadow
+
+----
+Modern Eldrazi Aggro
+24 LANDS
+1 Breeding Pool
+3 Brushland
+4 Cavern of Souls
+4 Eldrazi Temple
+1 Forest
+1 Gemstone Caverns
+1 Hallowed Fountain
+1 Island
+1 Plains
+1 Temple Garden
+4 Windswept Heath
+2 Yavimaya Coast
+25 CREATURES
+1 Birds of Paradise
+4 Drowner of Hope
+4 Eldrazi Displacer
+4 Eldrazi Skyspawner
+4 Noble Hierarch
+4 Reality Smasher
+4 Thought-Knot Seer
+9 INSTANTS and SORC.
+4 Ancient Stirrings
+1 Dismember
+4 Path to Exile
+2 OTHER SPELLS
+2 Engineered Explosives
+SIDEBOARD
+1 Failure / Comply
+2 Grafdigger's Cage
+1 Natural State
+3 Rest in Peace
+3 Stony Silence
+2 Stubborn Denial
+1 Thragtusk
+1 Trinisphere
+1 Worship
+----
+Modern Affinity
+17 LANDS
+4 Blinkmoth Nexus
+4 Darksteel Citadel
+1 Glimmervoid
+4 Inkmoth Nexus
+1 Mountain
+3 Spire of Industry
+26 CREATURES
+4 Arcbound Ravager
+2 Etched Champion
+2 Master of Etherium
+2 Memnite
+4 Ornithopter
+4 Signal Pest
+4 Steel Overseer
+4 Vault Skirge
+4 INSTANTS and SORC.
+4 Galvanic Blast
+13 OTHER SPELLS
+4 Cranial Plating
+4 Mox Opal
+4 Springleaf Drum
+1 Welding Jar
+SIDEBOARD
+2 Ancient Grudge
+2 Dispatch
+2 Etched Champion
+2 Ghirapur Aether Grid
+1 Grafdigger's Cage
+2 Rest in Peace
+1 Spell Pierce
+2 Thoughtseize
+1 Wear / Tear
+----
+Modern Red Deck Wins
+19 LANDS
+4 Arid Mesa
+2 Blood Crypt
+4 Bloodstained Mire
+2 Mountain
+2 Sacred Foundry
+1 Scalding Tarn
+4 Wooded Foothills
+10 CREATURES
+4 Goblin Guide
+2 Grim Lavamancer
+4 Monastery Swiftspear
+31 INSTANTS and SORC.
+3 Boros Charm
+4 Bump in the Night
+3 Burst Lightning
+4 Lava Spike
+4 Lightning Bolt
+4 Rift Bolt
+2 Searing Blaze
+4 Shard Volley
+3 Skullcrack
+SIDEBOARD
+2 Deflecting Palm
+1 Exquisite Firecraft
+1 Leyline of Sanctity
+1 Leyline of the Void
+2 Nihil Spellbomb
+2 Rain of Gore
+3 Smash to Smithereens
+2 Stony Silence
+1 Wear / Tear
+----
+Modern Hatebear
+23 LANDS
+1 Cavern of Souls
+1 Eiganjo Castle
+4 Ghost Quarter
+4 Horizon Canopy
+9 Plains
+4 Tectonic Edge
+29 CREATURES
+4 Blade Splicer
+4 Flickerwisp
+4 Leonin Arbiter
+2 Mirran Crusader
+1 Phyrexian Revoker
+4 Restoration Angel
+1 Serra Avenger
+4 Thalia, Guardian of Thraben
+4 Thraben Inspector
+1 Weathered Wayfarer
+4 INSTANTS and SORC.
+4 Path to Exile
+4 OTHER SPELLS
+4 Aether Vial
+SIDEBOARD
+2 Burrenton Forge-Tender
+2 Dusk / Dawn
+1 Grafdigger's Cage
+1 Mirran Crusader
+4 Relic of Progenitus
+3 Stony Silence
+2 Sunlance
+----
+Modern Junk
+24 LANDS
+2 Blooming Marsh
+2 Forest
+1 Gavony Township
+1 Ghost Quarter
+1 Godless Shrine
+2 Marsh Flats
+2 Overgrown Tomb
+1 Plains
+1 Shambling Vent
+1 Swamp
+1 Temple Garden
+1 Vault of the Archangel
+4 Verdant Catacombs
+4 Windswept Heath
+12 CREATURES
+3 Knight of the Reliquary
+3 Noble Hierarch
+4 Tarmogoyf
+2 Voice of Resurgence
+18 INSTANTS and SORC.
+2 Abrupt Decay
+2 Fatal Push
+3 Inquisition of Kozilek
+4 Lingering Souls
+4 Path to Exile
+3 Thoughtseize
+6 OTHER SPELLS
+3 Bitterblossom
+3 Liliana of the Veil
+SIDEBOARD
+1 Abrupt Decay
+2 Collective Brutality
+1 Creeping Corrosion
+2 Damnation
+1 Fatal Push
+3 Fulminator Mage
+1 Ghost Quarter
+2 Stony Silence
+1 Thoughtseize
+1 Zealous Persecution
+----
+Modern Bant
+22 LANDS
+2 Botanical Sanctum
+2 Breeding Pool
+1 Cavern of Souls
+4 Flooded Strand
+1 Forest
+1 Gavony Township
+1 Hallowed Fountain
+1 Island
+3 Misty Rainforest
+1 Plains
+1 Razorverge Thicket
+1 Temple Garden
+3 Windswept Heath
+29 CREATURES
+4 Drogskol Captain
+3 Geist of Saint Traft
+4 Mausoleum Wanderer
+4 Noble Hierarch
+2 Phantasmal Image
+4 Rattlechains
+4 Selfless Spirit
+4 Spell Queller
+8 INSTANTS and SORC.
+4 Collected Company
+4 Path to Exile
+1 Steel of the Godhead
+SIDEBOARD
+1 Eidolon of Rhetoric
+1 Engineered Explosives
+2 Qasali Pridemage
+3 Rest in Peace
+1 Rhox War Monk
+3 Stony Silence
+3 Unified Will
+1 Worship
+----
+Modern Jund
+24 LANDS
+4 Blackcleave Cliffs
+1 Blood Crypt
+4 Bloodstained Mire
+1 Blooming Marsh
+1 Forest
+2 Overgrown Tomb
+3 Raging Ravine
+1 Stomping Ground
+2 Swamp
+4 Verdant Catacombs
+1 Wooded Foothills
+14 CREATURES
+4 Dark Confidant
+1 Grim Lavamancer
+1 Huntmaster of the Fells
+1 Olivia Voldaren
+3 Scavenging Ooze
+4 Tarmogoyf
+18 INSTANTS and SORC.
+1 Abrupt Decay
+4 Fatal Push
+4 Inquisition of Kozilek
+1 Kolaghan's Command
+2 Lightning Bolt
+1 Maelstrom Pulse
+3 Terminate
+2 Thoughtseize
+4 OTHER SPELLS
+4 Liliana of the Veil
+SIDEBOARD
+2 Ancient Grudge
+2 Collective Brutality
+1 Damnation
+2 Fulminator Mage
+2 Grafdigger's Cage
+1 Grim Lavamancer
+2 Kitchen Finks
+2 Shatterstorm
+1 Thragtusk
+----
+Modern Merfolk
+19 LANDS
+2 Cavern of Souls
+13 Island
+4 Mutavault
+28 CREATURES
+4 Cursecatcher
+3 Harbinger of the Tides
+1 Kira, Great Glass-Spinner
+4 Lord of Atlantis
+4 Master of Waves
+4 Master of the Pearl Trident
+3 Merrow Reejerey
+1 Phantasmal Image
+4 Silvergill Adept
+5 INSTANTS and SORC.
+2 Dismember
+2 Spell Pierce
+1 Vapor Snag
+8 OTHER SPELLS
+4 Aether Vial
+4 Spreading Seas
+SIDEBOARD
+2 Ceremonious Rejection
+1 Echoing Truth
+2 Gut Shot
+2 Hibernation
+2 Relic of Progenitus
+2 Sea's Claim
+2 Tidebinder Mage
+2 Unified Will
+----
+Modern UW Control
+25 LANDS
+3 Celestial Colonnade
+4 Flooded Strand
+1 Ghost Quarter
+2 Hallowed Fountain
+3 Island
+1 Mountain
+1 Mystic Gate
+1 Plains
+1 Sacred Foundry
+4 Scalding Tarn
+1 Spirebluff Canal
+2 Steam Vents
+1 Tectonic Edge
+5 CREATURES
+4 Snapcaster Mage
+1 Torrential Gearhulk
+26 INSTANTS and SORC.
+1 Blessed Alliance
+3 Cryptic Command
+3 Electrolyze
+3 Lightning Helix
+3 Mana Leak
+4 Path to Exile
+1 Remand
+4 Serum Visions
+3 Supreme Verdict
+1 Think Twice
+4 OTHER SPELLS
+1 Elspeth, Sun's Champion
+1 Engineered Explosives
+1 Gideon, Ally of Zendikar
+1 Jace, Architect of Thought
+SIDEBOARD
+1 Ceremonious Rejection
+2 Counterflux
+1 Crumble to Dust
+1 Dispel
+1 Gideon, Ally of Zendikar
+2 Grim Lavamancer
+2 Rest in Peace
+2 Shadow of Doubt
+1 Timely Reinforcements
+2 Wear / Tear
+----
+Modern UrzaTron
+20 LANDS
+1 Forest
+1 Ghost Quarter
+4 Grove of the Burnwillows
+1 Sanctum of Ugin
+1 Sea Gate Wreckage
+4 Urza's Mine
+4 Urza's Power Plant
+4 Urza's Tower
+7 CREATURES
+2 Ulamog, the Ceaseless Hunger
+1 Walking Ballista
+1 World Breaker
+3 Wurmcoil Engine
+9 INSTANTS and SORC.
+4 Ancient Stirrings
+1 Fog
+4 Sylvan Scrying
+24 OTHER SPELLS
+4 Chromatic Sphere
+4 Chromatic Star
+4 Expedition Map
+4 Karn Liberated
+3 Oblivion Stone
+2 Relic of Progenitus
+3 Ugin, the Spirit Dragon
+SIDEBOARD
+1 Ancient Grudge
+1 Life from the Loam
+3 Nature's Claim
+1 Oblivion Stone
+2 Pyroclasm
+1 Relic of Progenitus
+1 Surgical Extraction
+1 Thragtusk
+1 Ugin, the Spirit Dragon
+1 Ulamog, the Ceaseless Hunger
+2 Warping Wail
+----
+Modern UWx Midrange
+24 LANDS
+1 Arid Mesa
+4 Celestial Colonnade
+4 Flooded Strand
+1 Ghost Quarter
+1 Glacial Fortress
+2 Hallowed Fountain
+2 Island
+1 Mountain
+1 Plains
+1 Sacred Foundry
+3 Scalding Tarn
+2 Steam Vents
+1 Sulfur Falls
+10 CREATURES
+4 Snapcaster Mage
+4 Spell Queller
+2 Vendilion Clique
+26 INSTANTS and SORC.
+3 Cryptic Command
+2 Electrolyze
+4 Lightning Bolt
+4 Lightning Helix
+2 Mana Leak
+4 Path to Exile
+3 Remand
+4 Serum Visions
+SIDEBOARD
+3 Ceremonious Rejection
+2 Crumble to Dust
+2 Negate
+3 Rest in Peace
+3 Supreme Verdict
+2 Timely Reinforcements
+----
+Modern Lantern Control
+18 LANDS
+2 Academy Ruins
+4 Blooming Marsh
+1 Concealed Courtyard
+1 Forest
+2 Ghost Quarter
+4 Glimmervoid
+2 Inventors' Fair
+1 Spire of Industry
+1 Swamp
+16 INSTANTS and SORC.
+2 Abrupt Decay
+4 Ancient Stirrings
+2 Collective Brutality
+4 Inquisition of Kozilek
+2 Surgical Extraction
+2 Thoughtseize
+26 OTHER SPELLS
+4 Codex Shredder
+1 Crucible of Worlds
+4 Ensnaring Bridge
+1 Ghirapur Aether Grid
+4 Ghoulcaller's Bell
+4 Lantern of Insight
+2 Leyline of Sanctity
+4 Mox Opal
+2 Pithing Needle
+SIDEBOARD
+1 Abrupt Decay
+1 Collective Brutality
+1 Gaddock Teeg
+2 Grafdigger's Cage
+1 Leyline of Sanctity
+1 Magus of the Moon
+1 Nature's Claim
+1 Padeem, Consul of Innovation
+1 Phyrexian Metamorph
+1 Pithing Needle
+1 Seal of Primordium
+1 Spellskite
+2 Welding Jar
+----
+Modern Valakut
+27 LANDS
+3 Cinder Glade
+3 Forest
+6 Mountain
+4 Stomping Ground
+4 Valakut, the Molten Pinnacle
+3 Windswept Heath
+4 Wooded Foothills
+9 CREATURES
+4 Primeval Titan
+4 Sakura-Tribe Elder
+1 Wood Elves
+20 INSTANTS and SORC.
+2 Anger of the Gods
+1 Explore
+3 Farseek
+4 Lightning Bolt
+4 Scapeshift
+4 Search for Tomorrow
+2 Summoner's Pact
+4 OTHER SPELLS
+2 Prismatic Omen
+2 Relic of Progenitus
+SIDEBOARD
+1 Ancient Grudge
+1 Anger of the Gods
+2 Chameleon Colossus
+2 Engineered Explosives
+2 Grafdigger's Cage
+1 Leyline of Sanctity
+1 Nature's Claim
+2 Obstinate Baloth
+1 Reclamation Sage
+1 Relic of Progenitus
+1 Tireless Tracker
+----
+Modern Creatures Toolbox
+21 LANDS
+3 Forest
+2 Gavony Township
+1 Godless Shrine
+1 Horizon Canopy
+1 Overgrown Tomb
+1 Plains
+2 Razorverge Thicket
+2 Temple Garden
+4 Verdant Catacombs
+4 Windswept Heath
+31 CREATURES
+4 Birds of Paradise
+4 Devoted Druid
+2 Duskwatch Recruiter
+4 Eternal Witness
+4 Kitchen Finks
+3 Noble Hierarch
+1 Qasali Pridemage
+1 Scavenging Ooze
+1 Selfless Spirit
+1 Tireless Tracker
+1 Viscera Seer
+4 Vizier of Remedies
+1 Walking Ballista
+8 INSTANTS and SORC.
+4 Chord of Calling
+4 Collected Company
+SIDEBOARD
+1 Anafenza, the Foremost
+1 Big Game Hunter
+1 Burrenton Forge-Tender
+1 Eidolon of Rhetoric
+1 Kataki, War's Wage
+2 Lingering Souls
+1 Linvala, Keeper of Silence
+1 Maelstrom Pulse
+1 Orzhov Pontiff
+2 Path to Exile
+1 Qasali Pridemage
+1 Reclamation Sage
+1 Sin Collector
+----
+Modern UR Storm
+18 LANDS
+4 Flooded Strand
+1 Hallowed Fountain
+2 Island
+1 Mountain
+4 Scalding Tarn
+1 Shivan Reef
+3 Spirebluff Canal
+2 Steam Vents
+8 CREATURES
+4 Baral, Chief of Compliance
+4 Goblin Electromancer
+34 INSTANTS and SORC.
+4 Desperate Ritual
+4 Gifts Ungiven
+2 Grapeshot
+4 Manamorphose
+1 Noxious Revival
+2 Past in Flames
+2 Peer Through Depths
+4 Pyretic Ritual
+3 Remand
+4 Serum Visions
+4 Sleight of Hand
+SIDEBOARD
+2 Blood Moon
+1 Echoing Truth
+3 Empty the Warrens
+2 Path to Exile
+2 Pieces of the Puzzle
+1 Repeal
+2 Swan Song
+2 Wear / Tear
+----
+Modern Dredge
+20 LANDS
+2 Arid Mesa
+1 Blackcleave Cliffs
+1 Blood Crypt
+2 Bloodstained Mire
+4 Copperline Gorge
+2 Dakmor Salvage
+2 Gemstone Mine
+2 Mountain
+2 Stomping Ground
+2 Wooded Foothills
+24 CREATURES
+4 Bloodghast
+3 Golgari Thug
+1 Haunted Dead
+4 Insolent Neonate
+4 Narcomoeba
+4 Prized Amalgam
+4 Stinkweed Imp
+16 INSTANTS and SORC.
+4 Cathartic Reunion
+3 Conflagrate
+1 Darkblast
+4 Faithless Looting
+4 Life from the Loam
+SIDEBOARD
+1 Ancient Grudge
+2 Collective Brutality
+1 Engineered Explosives
+1 Gnaw to the Bone
+4 Leyline of the Void
+2 Lightning Axe
+2 Maelstrom Pulse
+2 Thoughtseize
+----
+Modern Living End
+18 LANDS
+4 Blackcleave Cliffs
+1 Blood Crypt
+1 Bloodstained Mire
+1 Forest
+3 Grove of the Burnwillows
+1 Overgrown Tomb
+1 Stomping Ground
+2 Swamp
+4 Verdant Catacombs
+24 CREATURES
+2 Archfiend of Ifnir
+4 Desert Cerodon
+2 Faerie Macabre
+4 Horror of the Broken Lands
+4 Monstrous Carabid
+4 Simian Spirit Guide
+4 Street Wraith
+14 INSTANTS and SORC.
+3 Beast Within
+4 Demonic Dread
+3 Living End
+4 Violent Outburst
+4 OTHER SPELLS
+4 Blood Moon
+SIDEBOARD
+2 Brindle Boar
+3 Ingot Chewer
+4 Leyline of the Void
+2 Lost Legacy
+2 Ricochet Trap
+2 Shriekmaw
+----
+Modern Ad Nauseam
+20 LANDS
+2 City of Brass
+4 Darkslick Shores
+3 Gemstone Mine
+2 Island
+1 Plains
+2 Seachrome Coast
+4 Temple of Deceit
+2 Temple of Enlightenment
+5 CREATURES
+1 Laboratory Maniac
+4 Simian Spirit Guide
+23 INSTANTS and SORC.
+4 Ad Nauseam
+4 Angel's Grace
+1 Lightning Storm
+3 Pact of Negation
+4 Serum Visions
+4 Sleight of Hand
+3 Spoils of the Vault
+12 OTHER SPELLS
+4 Lotus Bloom
+4 Pentad Prism
+4 Phyrexian Unlife
+SIDEBOARD
+1 Echoing Truth
+1 Hurkyl's Recall
+4 Leyline of Sanctity
+4 Leyline of the Void
+4 Monastery Mentor
+1 Pact of Negation
+----
+Standard Golgari Aggro
+23 LANDS
+4 Blooming Marsh
+3 Evolving Wilds
+5 Forest
+1 Hashep Oasis
+4 Hissing Quagmire
+6 Swamp
+20 CREATURES
+4 Grim Flayer
+2 Kalitas, Traitor of Ghet
+1 Rishkar, Peema Renegade
+3 Tireless Tracker
+2 Verdurous Gearhulk
+4 Walking Ballista
+4 Winding Constrictor
+12 INSTANTS and SORC.
+2 Dissenter's Deliverance
+4 Fatal Push
+2 Grasp of Darkness
+4 Traverse the Ulvenwald
+5 OTHER SPELLS
+2 Liliana, the Last Hope
+3 Nissa, Voice of Zendikar
+SIDEBOARD
+3 Dispossess
+1 Doomfall
+2 Gonti, Lord of Luxury
+1 Grasp of Darkness
+1 Ishkanah, Grafwidow
+2 Never / Return
+1 Ob Nixilis Reignited
+1 Tireless Tracker
+3 Transgress the Mind
+----
+Standard Temur Aggro
+22 LANDS
+4 Aether Hub
+3 Botanical Sanctum
+2 Forest
+3 Game Trail
+2 Hanweir Battlements
+1 Island
+1 Lumbering Falls
+2 Mountain
+2 Sheltered Thicket
+2 Spirebluff Canal
+19 CREATURES
+2 Bristling Hydra
+4 Electrostatic Pummeler
+3 Longtusk Cub
+2 Rhonas the Indomitable
+1 Samut, Voice of Dissent
+4 Servant of the Conduit
+3 Voltaic Brawler
+19 INSTANTS and SORC.
+4 Attune with Aether
+4 Blossoming Defense
+2 Fling
+3 Harnessed Lightning
+4 Invigorated Rampage
+2 Larger Than Life
+SIDEBOARD
+1 Bristling Hydra
+2 Glorybringer
+2 Negate
+3 Radiant Flames
+1 Samut, Voice of Dissent
+2 Sweltering Suns
+2 Tireless Tracker
+2 Whirler Virtuoso
+----
+Standard Mardu Aggro
+25 LANDS
+3 Canyon Slough
+4 Concealed Courtyard
+4 Inspiring Vantage
+3 Mountain
+1 Needle Spires
+4 Plains
+2 Shambling Vent
+4 Spire of Industry
+19 CREATURES
+1 Archangel Avacyn
+4 Scrapheap Scrounger
+2 Thalia, Heretic Cathar
+4 Thraben Inspector
+4 Toolcraft Exemplar
+4 Veteran Motorist
+7 INSTANTS and SORC.
+3 Fatal Push
+4 Unlicensed Disintegration
+9 OTHER SPELLS
+1 Aethersphere Harvester
+4 Gideon, Ally of Zendikar
+4 Heart of Kiran
+SIDEBOARD
+1 Archangel Avacyn
+2 Chandra, Torch of Defiance
+2 Cut / Ribbons
+1 Fatal Push
+2 Fumigate
+3 Magma Spray
+2 Oath of Liliana
+1 Painful Truths
+1 Sorin, Grim Nemesis
+----
+Standard Mono Black Aggro
+24 LANDS
+22 Swamp
+2 Westvale Abbey
+24 CREATURES
+4 Cryptbreaker
+4 Diregraf Colossus
+4 Dread Wanderer
+1 Kalitas, Traitor of Ghet
+4 Lord of the Accursed
+3 Metallic Mimic
+4 Relentless Dead
+8 INSTANTS and SORC.
+4 Dark Salvation
+2 Fatal Push
+2 Grasp of Darkness
+4 OTHER SPELLS
+4 Liliana's Mastery
+SIDEBOARD
+3 Aethersphere Harvester
+2 Fatal Push
+2 Liliana, the Last Hope
+2 Never / Return
+1 Skysovereign, Consul Flagship
+3 Transgress the Mind
+2 Voldaren Pariah
+----
+Standard Azorious Aggro
+
+----
+Standard Gruul Aggro
+21 LANDS
+4 Aether Hub
+3 Forest
+3 Game Trail
+4 Hashep Oasis
+4 Mountain
+3 Sheltered Thicket
+20 CREATURES
+4 Bristling Hydra
+4 Electrostatic Pummeler
+4 Longtusk Cub
+2 Rhonas the Indomitable
+3 Servant of the Conduit
+3 Tireless Tracker
+18 INSTANTS and SORC.
+4 Attune with Aether
+4 Blossoming Defense
+2 Fling
+4 Harnessed Lightning
+4 Invigorated Rampage
+1 OTHER SPELLS
+1 Samut, the Tested
+SIDEBOARD
+2 Appetite for the Unnatural
+2 Chandra, Torch of Defiance
+3 Glorybringer
+2 Magma Spray
+1 Manglehorn
+1 Rhonas the Indomitable
+3 Sweltering Suns
+1 Tireless Tracker
+----
+Standard Red Deck Wins
+21 LANDS
+14 Mountain
+4 Ramunap Ruins
+3 Sunscorched Desert
+26 CREATURES
+4 Ahn-Crop Crasher
+4 Bomat Courier
+4 Earthshaker Khenra
+4 Falkenrath Gorger
+3 Hazoret the Fervent
+3 Kari Zev, Skyship Raider
+4 Village Messenger
+10 INSTANTS and SORC.
+2 Collective Defiance
+4 Incendiary Flow
+4 Shock
+3 OTHER SPELLS
+3 Cartouche of Zeal
+SIDEBOARD
+4 Abrade
+2 Chandra's Defeat
+3 Chandra, Torch of Defiance
+2 Glorybringer
+1 Hanweir Battlements
+2 Hanweir Garrison
+1 Sunscorched Desert
+----
+Standard Emerge
+23 LANDS
+4 Aether Hub
+4 Botanical Sanctum
+3 Evolving Wilds
+3 Forest
+2 Island
+2 Mountain
+1 Sanctum of Ugin
+2 Sheltered Thicket
+2 Spirebluff Canal
+16 CREATURES
+3 Elder Deep-Fiend
+2 Glorybringer
+1 Ishkanah, Grafwidow
+4 Rogue Refiner
+3 Servant of the Conduit
+2 Tireless Tracker
+1 World Breaker
+16 INSTANTS and SORC.
+1 Cut / Ribbons
+3 Grapple with the Past
+4 Harnessed Lightning
+4 Kozilek's Return
+4 Traverse the Ulvenwald
+5 OTHER SPELLS
+2 Chandra, Torch of Defiance
+3 Vessel of Nascency
+SIDEBOARD
+1 Chandra, Flamecaller
+2 Confiscation Coup
+1 Cut / Ribbons
+2 Disallow
+1 Glorybringer
+1 Ishkanah, Grafwidow
+2 Magma Spray
+1 Manglehorn
+2 Negate
+2 Tireless Tracker
+----
+Standard Weenie White
+26 LANDS
+1 Geier Reach Sanitarium
+2 Irrigated Farmland
+19 Plains
+4 Westvale Abbey
+26 CREATURES
+1 Archangel Avacyn
+1 Bruna, the Fading Light
+2 Fairgrounds Warden
+1 Gisela, the Broken Blade
+4 Glory-Bound Initiate
+4 Hanweir Militia Captain
+1 Linvala, the Preserver
+4 Selfless Spirit
+3 Thalia's Lancers
+1 Thalia, Heretic Cathar
+4 Thraben Inspector
+8 OTHER SPELLS
+3 Cast Out
+4 Oketra's Monument
+1 Skysovereign, Consul Flagship
+SIDEBOARD
+1 Archangel Avacyn
+1 Cast Out
+1 Dusk / Dawn
+2 Fairgrounds Warden
+2 Fragmentize
+3 Fumigate
+4 Gideon, Ally of Zendikar
+1 Stasis Snare
+----
+Standard Izzet Control
+25 LANDS
+4 Aether Hub
+4 Botanical Sanctum
+2 Cinder Glade
+5 Island
+3 Lumbering Falls
+3 Mountain
+4 Spirebluff Canal
+3 CREATURES
+3 Torrential Gearhulk
+30 INSTANTS and SORC.
+1 Baral's Expertise
+4 Censor
+2 Commit / Memory
+3 Disallow
+1 Essence Scatter
+3 Glimmer of Genius
+4 Harnessed Lightning
+4 Hieroglyphic Illumination
+3 Magma Spray
+3 Negate
+2 Sweltering Suns
+2 OTHER SPELLS
+1 Jace, Unraveler of Secrets
+1 Metallurgic Summonings
+SIDEBOARD
+1 Altered Ego
+1 Commit / Memory
+1 Confiscation Coup
+2 Dispel
+2 Gnarlwood Dryad
+1 Incendiary Flow
+1 Magma Spray
+1 Overwhelming Denial
+1 Sweltering Suns
+4 Tireless Tracker
+----
+Standard Jund
+23 LANDS
+4 Blooming Marsh
+1 Cinder Glade
+3 Evolving Wilds
+5 Forest
+3 Hissing Quagmire
+1 Mountain
+3 Smoldering Marsh
+3 Swamp
+24 CREATURES
+4 Grim Flayer
+3 Mindwrack Demon
+4 Scrapheap Scrounger
+3 Tireless Tracker
+3 Verdurous Gearhulk
+4 Walking Ballista
+3 Winding Constrictor
+12 INSTANTS and SORC.
+4 Fatal Push
+4 Traverse the Ulvenwald
+4 Unlicensed Disintegration
+1 OTHER SPELLS
+1 Liliana, Death's Majesty
+SIDEBOARD
+2 Gonti, Lord of Luxury
+2 Lifecrafter's Bestiary
+1 Liliana, Death's Majesty
+2 Manglehorn
+1 Noxious Gearhulk
+2 Radiant Flames
+2 To the Slaughter
+3 Transgress the Mind
+----
+Standard Marvelous Energy
+23 LANDS
+4 Aether Hub
+3 Botanical Sanctum
+1 Evolving Wilds
+4 Forest
+3 Game Trail
+1 Island
+2 Mountain
+2 Shrine of the Forsaken Gods
+3 Spirebluff Canal
+13 CREATURES
+4 Rogue Refiner
+4 Servant of the Conduit
+1 Tireless Tracker
+4 Ulamog, the Ceaseless Hunger
+14 INSTANTS and SORC.
+4 Attune with Aether
+3 Glimmer of Genius
+4 Harnessed Lightning
+3 Negate
+10 OTHER SPELLS
+4 Aetherworks Marvel
+2 Chandra, Flamecaller
+4 Woodweaver's Puzzleknot
+SIDEBOARD
+3 Aether Meltdown
+1 Confiscation Coup
+2 Dispel
+1 Negate
+1 Shrine of the Forsaken Gods
+2 Sweltering Suns
+3 Tireless Tracker
+2 Ulvenwald Hydra
