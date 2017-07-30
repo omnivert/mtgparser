@@ -1,8 +1,8 @@
 07/30/17
 Legacy
-    Grixis Delver       Aggro   105 12%
-    Death & Taxes       Aggro   52  6%
-    UR Delver           Aggro   32  4%
+    Grixis Delver,Aggro,105,12%
+    Death & Taxes,Aggro,52,6%
+    UR Delver,Aggro,32,4%
     Eldrazi Aggro       Aggro   32  4%
     Jund                Aggro   18  2%
     Burn                Aggro   17  2%
